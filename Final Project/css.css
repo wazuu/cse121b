@@ -16,7 +16,7 @@
 .header {
     padding: 80px;
     text-align: center;
-    background: #CC5500;
+    background: lightblue;
     color: white;
   }
   
@@ -27,7 +27,7 @@
   .navbar {
     float: center;
     overflow: hidden;
-    background-color: #F28C28;
+    background-color: midnightblue;
   }
   
   .navbar a {
@@ -69,7 +69,7 @@
   }
   
   .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: orangered;
+    background-color: midnightblue;
   }
   
   .dropdown-content {
@@ -119,15 +119,10 @@
   }
 .logo1 {
     display: block;
+    margin-top: auto;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    }
-    .logo2 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
   }
 
 .input_city {
@@ -166,7 +161,7 @@
 .display {
     text-align: center;
     width: 400px;
-    color: #C04000;
+    color: midnightblue;
 }
 .wrapper {
     margin: 0 9rem;
@@ -192,9 +187,9 @@
 
   .wrapper h2 span{
     font-size: 26px;
-    color: #F28C28;
+    color: midnightblue;
   }
     .wrapper p span{
-    color: #CC5500;
+    color: midnightblue;
     font-size: 25px;
   }
